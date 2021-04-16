@@ -2,7 +2,7 @@
 <div class="container">
     <nav class="row navbar navbar-expand-lg navbar-light bg-white">
         <a href="#" class="navbar-brand">
-            <img src="frontend/image/logo@2x.png" alt="Logo Nomads">
+            <img src="{{url('frontend/image/logo@2x.png')}}" alt="Logo Nomads">
         </a>
         <button class="navbar-toggler navbar-togglert-right" type="button" data-toggle="collapse"
             data-target="#navb"><span class="navbar-toggler-icon"></span></button>
